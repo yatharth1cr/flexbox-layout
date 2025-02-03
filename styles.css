@@ -74,8 +74,6 @@ footer {
   background-color: #333;
   color: white;
   padding: 15px;
-  /* position: relative;
-  bottom: 0; */
 }
 
 .hamburger {
@@ -100,7 +98,6 @@ footer {
 
   .box {
     flex: 1 1 80%;
-    /* padd/ing: 50px; */
   }
 }
 
