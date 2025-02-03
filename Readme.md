@@ -24,7 +24,3 @@ flexbox-layout/
 ## Contributing
 
 Feel free to fork and submit pull requests.
-
-## License
-
-MIT License
