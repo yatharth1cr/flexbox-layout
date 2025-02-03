@@ -17,7 +17,7 @@ flexbox-layout/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/flexbox-layout.git
+   git clone https://github.com/yatharth1cr/flexbox-layout.git
    ```
 2. Open `flexbox.html` in your browser.
 
